@@ -23,22 +23,22 @@ This project uses the PIMA Diabetes Dataset, which contains diagnostic measureme
 - Jupyter/Colab Notebook
 
 🧠 ML Workflow
-- Data Loading & Exploration
-- Read CSV using pandas
-- Analyze distribution and statistics
-- Visualize outcome classes
-- Preprocessing
-- Feature scaling using StandardScaler
-- Train-test split with stratification
-- Model Training
-- Support Vector Machine (SVM) with linear kernel
-- Fit on training data
-- Evaluation
-- Accuracy on training set: ~78.6%
-- Accuracy on test set: ~77.3%
-- Prediction System
-- Accepts user input
-- Standardizes features
-- Predicts diabetic status
+- Data Loading & Exploration:
+   Read CSV using pandas
+   Analyze distribution and statistics
+   Visualize outcome classes
+- Preprocessing:
+    Feature scaling using StandardScaler
+    Train-test split with stratification
+- Model Training:
+   Support Vector Machine (SVM) with linear kernel
+   Fit on training data
+- Evaluation:
+   Accuracy on training set: ~78.6%
+   Accuracy on test set: ~77.3%
+- Prediction System:
+    Accepts user input
+    Standardizes features
+    Predicts diabetic status
 
 
