@@ -26,9 +26,7 @@ This project uses the PIMA Diabetes Dataset, which contains diagnostic measureme
 - Data Loading & Exploration:
  
    Read CSV using pandas
-  
    Analyze distribution and statistics
-
    Visualize outcome classes
 - Preprocessing:
     Feature scaling using StandardScaler
