@@ -25,9 +25,9 @@ This project uses the PIMA Diabetes Dataset, which contains diagnostic measureme
 🧠 ML Workflow
 - Data Loading & Exploration:
  
-   Read CSV using pandas
-   Analyze distribution and statistics
-   Visualize outcome classes
+   Read CSV using pandas.
+   Analyze distribution and statistics.
+   Visualize outcome classes.
 - Preprocessing:
     Feature scaling using StandardScaler
     Train-test split with stratification
