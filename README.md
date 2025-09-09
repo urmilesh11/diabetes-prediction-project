@@ -1,6 +1,6 @@
-
 🩺 Diabetes Prediction System using SVM
 A machine learning project that predicts whether a person is diabetic based on medical attributes using the PIMA Indian Diabetes dataset and a Support Vector Machine (SVM) classifier.
+
 📊 Dataset Overview
 This project uses the PIMA Diabetes Dataset, which contains diagnostic measurements of female patients of Pima Indian heritage. The dataset includes:
 - 768 samples
